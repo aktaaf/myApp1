@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-11-14 13:19:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>98b7c81a2b072600e6e227b436da153a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_78806_myapp1.user</sys_name>
